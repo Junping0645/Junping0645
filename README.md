@@ -8,7 +8,6 @@
 <li>학생개발자입니다</li>
 <li>대현고등학교 소속</li>
 <li>AI, WEB, Backend Dev</li>
-<li>With Claude</li>
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
