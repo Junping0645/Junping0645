@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:37c8be,100:d4fe01&height=120&text=Hello%🤗&animation=&fontColor=000000&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:37c8be,100:d4fe01&height=120&text=Developer%⚒️&animation=&fontColor=000000&fontSize=50" />
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> STUDENT DEVELOPER </h2>
@@ -43,4 +43,5 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20cloud-222222?style=for-the-badge&logo=Googlecloud&logoColor=white">
 </div>
