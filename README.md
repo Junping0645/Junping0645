@@ -5,7 +5,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> STUDENT DEVELOPER </h2>
 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-<li>학생개발자입니다</li>
+<li>고등학생</li>
 <li>대현고등학교 소속</li>
 <li>AI, WEB, Full-stack, Server Dev</li>
 </div>
