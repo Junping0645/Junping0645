@@ -7,7 +7,7 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 <li>고등학생</li>
 <li>대현고등학교 소속</li>
-<li>AI, WEB, Full-stack, Server Dev</li>
+<li>재밌는 거 함니당</li>
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
